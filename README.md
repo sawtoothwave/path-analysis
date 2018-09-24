@@ -8,3 +8,4 @@ Check out the [previous path analysis projects](https://github.com/18F/path-anal
 
 ## Templates
 - [Path Analysis Report Template](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/) (make a copy first!)
+- [Path Analysis Trello Template](https://trello.com/b/Lk2sSU1l/path-analysis-project-template) A starter template that has many of the basics/checklists for an 8 week Path Analysis. Make a copy first if you plan on using this template (click "... show menu" on the right side of the page, select "... more," and then select "copy board").
